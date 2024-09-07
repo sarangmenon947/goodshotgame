@@ -9,7 +9,7 @@ HEIGHT = 500
 message = ""
 
 frog = Actor("frog")
-#alien.pos = (50, 50)
+#frog.pos = (50, 50)
 
 def draw():
     screen.clear()
